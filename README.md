@@ -1,5 +1,5 @@
 
-# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/lamiiiizee/lamiiiizee/main/images/Hi.gif" width="48px"></a> I'm M.lamees
+# Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/devlamys/devlamys/main/images/Hi.gif" width="48px"></a> I'm M.lamees
 
 &nbsp;
 
@@ -7,8 +7,8 @@
 
 #### TOTAL profile VIEWSERS📍
 ![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
-<!-- <img src="https://komarev.com/ghpvc/?username=lamiiiizee&label=👀&color=brightgreen&style=plastic" alt="lamiiiizee" /> 
-## <img src="https://img.shields.io/static/v1?label=%F0%9F%91%80&message=17781&color=brightgreen&style=plastic" alt="lamiiiizee" /> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=devlamys&label=👀&color=brightgreen&style=plastic" alt="devlamys" /> 
+## <img src="https://img.shields.io/static/v1?label=%F0%9F%91%80&message=17781&color=brightgreen&style=plastic" alt="devlamys" /> -->
 
 
 
@@ -83,7 +83,7 @@
 <h3 align="left">Contact Me..🤙</h3>
 
 
-[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/lamiiiizee/)
+[<img align="left" alt="Instagram" height="40px" width="40px" src="images/instagram.png" />](https://www.instagram.com/lamysmv/)
 [<img align="left" alt="LinkedIn" height="40px" width="40px" src="images/linkedin.png" />](https://www.linkedin.com/in/muhammed-lamees-mv-4970ba260/)
 [<img align="left" alt="Facebook" height="40px" width="40px" src="images/facebook.png" />](https://www.facebook.com/profile.php?id=100017169841207)
 [<img align="left" alt="WhatsApp" height="40px" width="40px" src="images/whatsapp.png" />](https://api.whatsapp.com/send/?phone=919946803234&text&type=phone_number&app_absent=0)
