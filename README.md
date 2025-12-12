@@ -6,7 +6,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=635DF7&lines=Hi...++im+muhammed+lamees;Software+developer;Problem+Solver;Continuous+Learner;Creative+Developer)](https://git.io/typing-svg)
 
 #### TOTAL profile VIEWSERS📍
-![Visitor Count](https://profile-counter.glitch.me/lamiiiizee/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/devlamys/count.svg)
 <!-- <img src="https://komarev.com/ghpvc/?username=devlamys&label=👀&color=brightgreen&style=plastic" alt="devlamys" /> 
 ## <img src="https://img.shields.io/static/v1?label=%F0%9F%91%80&message=17781&color=brightgreen&style=plastic" alt="devlamys" /> -->
 
@@ -94,7 +94,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lameess"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-            alt="lamiiiizee" /></a></p><br><br>
+            alt="devlamys" /></a></p><br><br>
 
 ###
 &nbsp;
